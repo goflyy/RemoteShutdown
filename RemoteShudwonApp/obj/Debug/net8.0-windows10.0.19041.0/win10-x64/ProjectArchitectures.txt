@@ -1,0 +1,1 @@
+C:\Users\48696\Documents\GitHub\RemoteShutdown\RemoteShudwonApp\RemoteShudwonApp.csproj;x64

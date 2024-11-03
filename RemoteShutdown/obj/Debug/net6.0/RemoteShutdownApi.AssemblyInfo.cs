@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RemoteShutdownApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3aea6097845f647da37350dbf121b62c9e322c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("RemoteShutdownApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RemoteShutdownApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

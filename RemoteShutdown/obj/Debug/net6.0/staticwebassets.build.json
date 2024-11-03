@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "ZjDyRRuY+nSgDI058OE0Uxhz1bTJSEGVRMokam9Wa30=",
-  "Source": "RemoteShutdown",
-  "BasePath": "_content/RemoteShutdown",
+  "Hash": "BuepJM3vZDUw0vcN2utweKdaTUnZc6hgHywtaZwH/jI=",
+  "Source": "RemoteShutdownApi",
+  "BasePath": "_content/RemoteShutdownApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
