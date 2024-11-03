@@ -214,11 +214,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\48696\\Desktop\\RemoteShutdown\\RemoteShutdown\\RemoteShutdown\\RemoteShutdown.csproj",
+      "projectUniqueName": "C:\\Users\\48696\\Documents\\GitHub\\RemoteShutdown\\RemoteShutdown\\RemoteShutdown.csproj",
       "projectName": "RemoteShutdown",
-      "projectPath": "C:\\Users\\48696\\Desktop\\RemoteShutdown\\RemoteShutdown\\RemoteShutdown\\RemoteShutdown.csproj",
+      "projectPath": "C:\\Users\\48696\\Documents\\GitHub\\RemoteShutdown\\RemoteShutdown\\RemoteShutdown.csproj",
       "packagesPath": "C:\\Users\\48696\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\48696\\Desktop\\RemoteShutdown\\RemoteShutdown\\RemoteShutdown\\obj\\",
+      "outputPath": "C:\\Users\\48696\\Documents\\GitHub\\RemoteShutdown\\RemoteShutdown\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

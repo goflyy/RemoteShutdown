@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hX96T0PHLOe+vx1irp+4MZz2Z2c/+2a42GEJFxWT8J7HSv4g8NgD6k59bGaLHrMvaRr0an3OVHUUZvugETgNLg==",
+  "dgSpecHash": "itIYMQxkUhrqvhVIg2nj2bLPR8KRbxaO5RURblA4Mc38b/OK5xT8XWEp3AWHtHe7ZTmBg8ttDRmGxZ8a38kDog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\48696\\Desktop\\RemoteShutdown\\RemoteShutdown\\RemoteShutdown\\RemoteShutdown.csproj",
+  "projectFilePath": "C:\\Users\\48696\\Documents\\GitHub\\RemoteShutdown\\RemoteShutdown\\RemoteShutdown.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\48696\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\48696\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
