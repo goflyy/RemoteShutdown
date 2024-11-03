@@ -19,4 +19,4 @@ RemoteShutdown is a simple C# project that allows you to remotely shut down your
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/RemoteShutdown.git
+   git clone https://github.com/goflyy/RemoteShutdown.git
