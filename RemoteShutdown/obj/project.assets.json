@@ -214,9 +214,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\48696\\Documents\\GitHub\\RemoteShutdown\\RemoteShutdown\\RemoteShutdown.csproj",
-      "projectName": "RemoteShutdown",
-      "projectPath": "C:\\Users\\48696\\Documents\\GitHub\\RemoteShutdown\\RemoteShutdown\\RemoteShutdown.csproj",
+      "projectUniqueName": "C:\\Users\\48696\\Documents\\GitHub\\RemoteShutdown\\RemoteShutdown\\RemoteShutdownApi.csproj",
+      "projectName": "RemoteShutdownApi",
+      "projectPath": "C:\\Users\\48696\\Documents\\GitHub\\RemoteShutdown\\RemoteShutdown\\RemoteShutdownApi.csproj",
       "packagesPath": "C:\\Users\\48696\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\48696\\Documents\\GitHub\\RemoteShutdown\\RemoteShutdown\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZjDyRRuY+nSgDI058OE0Uxhz1bTJSEGVRMokam9Wa30=",
+  "Source": "RemoteShutdown",
+  "BasePath": "_content/RemoteShutdown",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
